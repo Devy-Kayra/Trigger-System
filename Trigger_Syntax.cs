@@ -1,6 +1,6 @@
 using UnityEngine;
 
-private class Trigger : MonoBehaviour
+public class Trigger : MonoBehaviour
 {
     private void OnTriggerEnter(Collider other)
     {
